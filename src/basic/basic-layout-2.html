@@ -6,7 +6,23 @@
     <title>Basic Layout 2</title>
     <link rel="stylesheet" href="../style.css" />
     <style>
-      /* Doe hier jouw ding! */
+      body {
+        gap: .5em;
+        margin: 0 auto;
+        padding: .5em;
+        max-width: 40em;
+        grid-template-rows: 1fr .5fr 3fr .7fr;
+      }
+      main {
+        font-size: 4em;
+        display: grid;
+        place-items: center;
+      }
+      @media (min-height: 20em) {
+        body {
+          display: grid;
+        }
+      }
     </style>
   </head>
   <body id="basic-layout-2">
