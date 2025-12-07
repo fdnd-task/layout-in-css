@@ -5,8 +5,6 @@ Een oefening in Layout Modes met CSS. Fork deze deeltaak, en ga aan de slag.
 
 ## Context
 
-Deze leertaak hoort bij Sprint 2 The Client. Dit is een deeltaak die je individueel uitvoert en waarmee je bewijslast verzamelt.
-
 _In het college _S02W02 Flow en Layout_ wordt verteld over _Layout Modes_ in CSS. Deze deeltaak behandelt verschillende typen layouts en is bedoeld als robuuste oefening in het maken van layouts._
 
 CSS heeft een aantal verschillende manieren waarop je HTML kunt voorzien van een layout. Elke manier heeft eigen voor- en nadelen, en het is goed om de verschillende methodes je eigen te maken. Layout Modes zijn ook te combineren, waardoor je verschillende ontwerpproblemen kunt oplossen.
