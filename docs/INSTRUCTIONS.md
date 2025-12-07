@@ -3,7 +3,7 @@
 
 Een oefening in Layout Modes met CSS. Fork deze deeltaak, en ga aan de slag.
 
-## Context
+## Doel van deze opdracht
 
 _In het college _S02W02 Flow en Layout_ wordt verteld over _Layout Modes_ in CSS. Deze deeltaak behandelt verschillende typen layouts en is bedoeld als robuuste oefening in het maken van layouts._
 
@@ -12,7 +12,7 @@ CSS heeft een aantal verschillende manieren waarop je HTML kunt voorzien van een
 Nadat je gestructureerde HTML hebt gemaakt, kun je elk onderdeel van een pagina of component van layout voorzien. En gecombineerd met media queries kun je _Responsive Layouts_ maken.
 
 
-## Doel van deze opdracht
+## Werkwijze
 
 In onderstaande afbeelding zie je 18 verschillende layouts die je met CSS kunt maken. Negen daarvan zijn basic layouts welke je met Normal Flow, Grid Layout, Flexible Box Layout, Float Layout en Positioned Layout kunt maken. Naast deze basic layouts zijn er ook negen advanced layouts waarvoor je iets meer trucage uit je mouw moet schudden.
 
@@ -22,8 +22,6 @@ Waarom zou je dit doen? Omdat je oefent met veel verschillende layouts en versch
 
 > *“Wax on right hand. Wax off left hand. Wax on, wax off. Breathe in through nose, out through mouth. Wax on, wax off. Don't forget to breathe. Very important.”* - Mr. Miyagi
 
-
-## Werkwijze
 
 Omdat deze deeltaak bestaat uit 18 kleine opdrachten, doorloop je telkens de _development lifecycle_. Misschien had je al vaker het idee dat je dit telkens in het klein doet bij elke grotere opdracht, als je een probleem oplost.
 
